@@ -1,2 +1,14 @@
 # Main
-GeekBrains' educational project
+*GeekBrains' educational project*
+
+Git insructions memo:
+----------------------------
+*__группа команд для работы с файлом__*
+* git init - инициализация репозитория
+* git add <file_name> - добавление файла для отслеживания изменений (старт контроля версий)
+* git commit -m "comment for this commit" - фиксация внесенных изменений в области stage
+* git diff - разница между текущей сохранённой версией файла и версией с фиксацией через соььше
+* git checkout - пермещение между версиями с фиксацией
+* git log - журнал изменений
+
+
