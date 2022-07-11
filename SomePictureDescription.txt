@@ -1,0 +1,1 @@
+This is a description of a picture in the current branch. Current branch is also nemed "picture".
