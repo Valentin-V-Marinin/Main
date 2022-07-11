@@ -13,10 +13,14 @@ Git insructions memo:
 
 *__группа команд для работы с ветками__*
 * git branch - выводит список веток
-* git branch <name_branch> - создаёт новыую ветку с заданным именем
-* git branch -d <name_branch> - удаление ветки
-* git chechout <name_branch> - перемещение по веткам
+* git branch <branch_name> - создаёт новыую ветку с заданным именем
+* git branch -d <branch_name> - удаление ветки
+* git chechout <branch_name> - перемещение по веткам
 * git log-graph - графическое представление веток, их иерархии
-* git merge <name_branch> - копирует указанную ветку в текущую
+* git merge <branch_name> - копирует указанную ветку в текущую
+
+*__группа команд для работы с удаленными(remote) ветками__*
+* pull remote <branch_name> - копирует ветку на локальный компьютер
+* push remote <branch_name> - передвигает ветку в область remote
 
 
