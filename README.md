@@ -24,4 +24,5 @@ Git insructions memo:
 * push remote <branch_name> - передвигает ветку в область remote
 
 *возможный вариант работы с локальными и удалёнными ветками*
-![возможная схема работы с ветками] (https://github.com/Valentin-V-Marinin/Main/raw/picture/cheme_branches_work.jpg "Автор схемы преподаватель Андрей Звездин")
+
+![возможная схема работы с ветками] (https://github.com/Valentin-V-Marinin/Main/blob/picture/Scheme_branches_work.jpg "Автор схемы преподаватель Андрей Звездин")
