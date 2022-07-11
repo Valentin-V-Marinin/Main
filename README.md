@@ -11,4 +11,12 @@ Git insructions memo:
 * git checkout - пермещение между версиями с фиксацией
 * git log - журнал изменений
 
+*__группа команд для работы с ветками__*
+* git branch - выводит список веток
+* git branch <name_branch> - создаёт новыую ветку с заданным именем
+* git branch -d <name_branch> - удаление ветки
+* git chechout <name_branch> - перемещение по веткам
+* git log-graph - графическое представление веток, их иерархии
+* git merge <name_branch> - копирует указанную ветку в текущую
+
 
